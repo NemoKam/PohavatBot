@@ -9,4 +9,4 @@
     <li>Ожидайте проверку админа</li> 
 </ol>
 <hr>
-Пример бота - https://t.me/PohavatiBot
+<a href="https://t.me/PohavatiBot">BOT</a> 
