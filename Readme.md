@@ -9,4 +9,6 @@
     <li>Ожидайте проверку админа</li> 
 </ol>
 <hr>
-<a href="https://t.me/PohavatiBot">BOT</a> 
+<div style="width: 100%">
+<a href="https://t.me/PohavatiBot" style="font-size: 40px; font-weight: bold; text-align: center;" >BOT</a> 
+</div>
