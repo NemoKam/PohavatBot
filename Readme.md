@@ -9,4 +9,4 @@
     <li>Ожидайте проверку админа</li> 
 </ol>
 <hr>
-<a href="https://t.me/PohavatiBot">BOT</a> <p> --- Telegram Bot </p>
+<a href="https://t.me/PohavatiBot">BOT --- Telegram Bot </a>
